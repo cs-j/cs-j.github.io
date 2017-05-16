@@ -1,0 +1,21 @@
+# Site settings
+title: Camille Jackson
+header-img: img/home-bg.png
+email: cj@mail.co.de
+copyright_name: cs-j
+description: > # this means to ignore newlines until "baseurl:"
+  progress through Full Stack Web Dev online
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  cs-j
+learn_profile: cs-j
+email_username: cj@mail.co.de
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
