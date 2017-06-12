@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sinatra Portfolio Project - National Parks Log"
-date:   2017-06-12 22:11:20 +0000
+title:  "Sinatra Portfolio Project"
+date:   2017-06-12 18:11:21 -0400
 ---
 
 
