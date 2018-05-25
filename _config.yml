@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: cj@mail.co.de
 copyright_name: cs-j
 description: > # this means to ignore newlines until "baseurl:"
-  progress through Full Stack Web Dev online
+  progress through Full Stack Web Dev
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cs-j
